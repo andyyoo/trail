@@ -5,3 +5,5 @@
 - fix issue04
 - fix issue05_1
 - fix issue05_2
+- fix issue06
+- fix issue07
